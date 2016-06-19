@@ -1,0 +1,5 @@
+﻿SELECT TOP 1 Name FROM dbo.Product
+JOIN dbo.Product_Category_Mapping ON ProductTypeId = dbo.Product.Id
+WHERE OrderMinimumQuantity = 1
+AND CategoryId = 12
+ORDER BY dbo.Product.Id DESC
