@@ -1,3 +1,3 @@
 # nopCommerce-tests-selenium
 
-Automated tests using C#, Selenium WebDriver and NUnit of nopCommerce - an open-source e-commerce shopping cart.
+Automated tests of nopCommerce using C#, Selenium WebDriver and NUnit. nopCommerce is an open-source e-commerce shopping cart.
